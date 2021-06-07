@@ -7,3 +7,5 @@ Voice Recognition with Text-to-Speech feedback
 Basic math processing
 
 Date and Time
+
+Continous listening and waiting for keywords
