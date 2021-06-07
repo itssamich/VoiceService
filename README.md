@@ -5,3 +5,5 @@ A test program for now. Testing different kinds of voice services can be done li
 Voice Recognition with Text-to-Speech feedback
 
 Basic math processing
+
+Date and Time
